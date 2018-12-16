@@ -1,0 +1,44 @@
+body{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.divider1{
+    height:2px;
+    width:100%;
+    background: #cccccc;
+    
+}
+
+.background{
+    background-image: url("../asset/gravel.png");
+    background-repeat: repeat; 
+    height:800px;
+    width:100%;
+}
+
+
+.divider2{
+    background:#cccccc;
+    height:1px;
+    width:100%;
+    display:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.divider3{
+    height:5px;
+    width:100%;
+    background: #4aaaa5;
+    float:left; 
+}
+
+.footer{
+    text-align: center;
+    padding-top:50px;
+    background: #666666;
+    float: left;
+    width:100%;   
+}
